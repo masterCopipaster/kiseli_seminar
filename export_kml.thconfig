@@ -1,0 +1,4 @@
+encoding  utf-8
+source Primer.th                     # Файл данных для обработки
+
+export model -output Primer.kml

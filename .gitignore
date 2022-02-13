@@ -1,0 +1,12 @@
+*.pdf
+*.dxf
+*.kml
+*.lox
+*.gpx
+therion.log
+debug.log
+.xtherion.dat
+old_and_temp/*
+!/mdfile*
+!*/public_version/*
+!public_version/*
