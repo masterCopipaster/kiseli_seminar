@@ -36,8 +36,8 @@ layout pdf-map  -copy symbols_mine
   map-header-bg on                          # Заливка фона основной надписи вкл/выкл
   map-image 25 -3 nw Perovo.png             # Растровое изображение в заданной точке карты
   legend on                                 # Легенда  карты вкл/выкл
-  legend-width 40 cm                        # Ширина поля легенды карты
-  legend-columns 10                         # Число колонок в легендле карты
+  legend-width 45 cm                        # Ширина поля легенды карты
+  legend-columns 8                         # Число колонок в легендле карты
   map-comment "Рабочая схема спелеоклуба ''Перово''"  # Заданная фраза внутри основной надписи
   doc-author "Спелеоклуб Перово"            # Автор документа
 endlayout
