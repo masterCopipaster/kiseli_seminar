@@ -1,16 +1,17 @@
+encoding  utf-8
 # 2022.02.13 created by TopoDroid v 5.1.40
 
 survey 97_raion -title "97 raion"
 
   input "97_raion-4p.th2"
 
-  # map m4p -projection plan
-  #   97_raion-4p
-  # endmap
+   map m4p -projection plan
+     97_raion-4p
+   endmap
 
   centerline
     date 2022.02.05 
-    # team Доронина Кулак 
+    team Доронина   #  team Кулак 
     units length meters
     units compass clino degrees
     data normal from to length compass clino
@@ -290,3 +291,4 @@ survey 97_raion -title "97 raion"
   endcenterline
 
 endsurvey
+
