@@ -22,7 +22,7 @@ line wall
   29.42 -293.18
 endline
 
-line wall -outline none
+line wall 
   16.76 -294.65
   30.22 -291.79
   43.46 -286.79
@@ -33,7 +33,7 @@ line wall -outline none
   107.62 -267.08
 endline
 
-line wall -outline none
+line wall 
   -87.43 -225.48
   -79.51 -221.60
   -73.31 -216.47
@@ -58,7 +58,7 @@ line wall -outline none
   104.73 -188.10
 endline
 
-line wall -outline none
+line wall 
   104.78 -271.27
   114.37 -266.53
   123.61 -264.00
@@ -100,7 +100,7 @@ line wall
   268.63 -188.91
 endline
 
-line wall -outline none
+line wall 
   99.13 -190.12
   109.35 -195.58
   118.75 -199.40
@@ -118,7 +118,7 @@ line wall -outline none
   231.97 -184.87
 endline
 
-line wall -outline none
+line wall 
   289.70 -254.72
   295.18 -250.17
   300.33 -241.52
@@ -143,7 +143,7 @@ line wall
   268.71 -190.36
 endline
 
-line wall -outline none
+line wall 
   397.22 -205.14
   401.21 -201.76
   412.37 -195.92
@@ -161,7 +161,7 @@ line wall -outline none
   537.66 -134.57
 endline
 
-line wall -outline none
+line wall 
   366.89 -169.71
   371.73 -162.76
   381.63 -154.32
@@ -176,7 +176,7 @@ line wall -outline none
   478.78 -108.16
 endline
 
-line wall -outline none
+line wall 
   534.21 -18.06
   532.29 -4.10
   528.05 13.80
@@ -192,7 +192,7 @@ line wall -outline none
   584.99 73.87
 endline
 
-line wall -outline none
+line wall 
   478.78 -108.16
   483.04 -100.04
   491.25 -90.86
@@ -205,7 +205,7 @@ line wall -outline none
   534.21 -18.06
 endline
 
-line wall -outline none
+line wall 
   537.66 -134.57
   547.45 -143.68
   561.22 -138.69
@@ -265,7 +265,7 @@ area u:user
   4p-a8
 endarea
 
-line wall -outline none
+line wall 
   717.18 -78.70
   730.91 -79.46
   743.61 -79.07
@@ -301,7 +301,7 @@ line wall
   845.92 -156.48
 endline
 
-line wall -outline none
+line wall 
   780.84 -164.35
   782.62 -154.05
   781.48 -144.93
@@ -313,7 +313,7 @@ line wall -outline none
   790.01 -85.40
 endline
 
-line wall -outline none
+line wall 
   788.84 -88.45
   793.28 -96.48
   803.60 -107.12
@@ -432,7 +432,7 @@ area u:user
   4p-a24
 endarea
 
-line wall -outline none
+line wall 
   -97.89 -251.67
   -111.15 -252.95
   -124.84 -254.32
@@ -443,13 +443,13 @@ line wall -outline none
   -163.06 -294.79
 endline
 
-line wall -outline none
+line wall 
   -162.58 -302.36
   -166.63 -313.31
   -166.93 -324.33
 endline
 
-line wall -outline none
+line wall 
   -87.43 -225.48
   -96.87 -220.77
   -112.02 -221.25
@@ -481,7 +481,7 @@ area u:user
   4p-a28
 endarea
 
-line wall -outline none
+line wall 
   -223.90 -373.57
   -234.56 -366.48
   -250.07 -362.05
@@ -507,7 +507,7 @@ line wall -outline none
   -224.86 -203.15
 endline
 
-line wall -outline none
+line wall 
   -225.59 -195.57
   -216.18 -187.78
   -214.28 -177.83
@@ -518,7 +518,7 @@ line wall -outline none
   -195.26 -127.02
 endline
 
-line wall -outline none
+line wall 
   -152.82 -230.82
   -160.50 -225.94
   -157.52 -217.44
@@ -546,7 +546,7 @@ line ceiling-meander
   -145.29 -114.18
 endline
 
-line wall -outline none
+line wall 
   -155.08 27.84
   -154.41 36.12
   -153.63 44.90
@@ -580,7 +580,7 @@ area u:user
   4p-a29
 endarea
 
-line wall -outline none
+line wall 
   -170.82 103.33
   -172.09 113.10
   -172.58 124.40
@@ -593,7 +593,7 @@ line wall -outline none
   -131.10 121.58
 endline
 
-line wall -outline none
+line wall 
   -124.12 68.78
   -110.55 73.00
   -100.19 79.66
@@ -609,7 +609,7 @@ line wall -outline none
   -7.68 144.83
 endline
 
-line wall -outline none
+line wall 
   -130.42 -94.18
   -129.66 -82.95
   -132.44 -69.27
@@ -621,7 +621,7 @@ line wall -outline none
   -125.02 6.12
 endline
 
-line wall -outline none
+line wall 
   -133.60 83.22
   -135.05 91.38
   -136.68 99.68
@@ -629,7 +629,7 @@ line wall -outline none
   -131.91 115.61
 endline
 
-line wall -outline none
+line wall 
   -133.60 83.22
   -135.89 75.65
   -130.91 67.94
@@ -637,7 +637,7 @@ line wall -outline none
   -110.33 75.75
 endline
 
-line wall -outline none
+line wall 
   -112.47 19.18
   -103.53 24.44
   -93.72 29.39
@@ -654,7 +654,7 @@ line wall -outline none
   3.05 110.67
 endline
 
-line wall -outline none
+line wall 
   -7.68 144.83
   -0.32 150.45
   12.42 160.12
@@ -664,7 +664,7 @@ line wall -outline none
   52.03 188.25
 endline
 
-line wall -outline none
+line wall 
   4.85 111.50
   19.87 116.98
   26.99 121.61
@@ -674,7 +674,7 @@ line wall -outline none
   61.54 145.54
 endline
 
-line wall -outline none
+line wall 
   45.41 133.04
   60.10 140.41
   71.83 145.02
@@ -683,7 +683,7 @@ line wall -outline none
   103.56 148.87
 endline
 
-line wall -outline none
+line wall 
   258.49 228.34
   248.35 220.61
   239.32 209.79
@@ -732,7 +732,7 @@ line chimney
   112.26 241.37
 endline
 
-line wall -outline none
+line wall 
   584.99 73.87
   595.13 74.84
   604.36 63.13
@@ -743,7 +743,7 @@ line wall -outline none
   633.22 1.64
 endline
 
-line wall -outline none
+line wall 
   633.22 1.64
   642.81 5.45
   653.61 5.14
@@ -771,7 +771,7 @@ line wall -outline none
   815.24 5.96
 endline
 
-line wall -outline none
+line wall 
   815.24 5.96
   815.74 0.28
   822.78 -9.37
@@ -781,7 +781,7 @@ line wall -outline none
   852.46 -44.09
 endline
 
-line wall -outline none
+line wall 
   852.46 -44.09
   848.80 -49.85
   852.23 -63.57
@@ -791,7 +791,7 @@ line wall -outline none
   848.62 -90.94
 endline
 
-line wall -outline none
+line wall 
   258.49 228.34
   266.32 224.15
   276.00 228.30
@@ -824,7 +824,7 @@ line wall
   341.32 330.27
 endline
 
-line wall -outline none
+line wall 
   318.46 227.22
   324.30 232.89
   332.43 243.93
@@ -856,13 +856,13 @@ line ceiling-meander
   447.31 376.33
 endline
 
-line wall -outline none
+line wall 
   341.32 330.27
   357.46 336.31
   368.81 341.47
 endline
 
-line wall -outline none
+line wall 
   368.81 341.47
   360.76 352.56
   362.79 364.41
@@ -892,7 +892,7 @@ line wall -outline none
   555.38 548.34
 endline
 
-line wall -outline none
+line wall 
   555.38 548.34
   567.68 547.83
   574.55 555.32
@@ -904,7 +904,7 @@ line wall -outline none
   626.42 602.94
 endline
 
-line wall -outline none
+line wall 
   631.26 607.95
   642.96 614.50
   650.37 620.15
@@ -919,7 +919,7 @@ line wall -outline none
   721.69 685.19
 endline
 
-line wall -outline none
+line wall 
   733.87 628.61
   745.46 634.75
   754.76 640.15
@@ -934,12 +934,12 @@ line wall -outline none
   830.49 703.35
 endline
 
-line wall -outline none
+line wall 
   595.66 513.41
   607.15 519.92
 endline
 
-line wall -outline none
+line wall 
   614.82 511.23
   632.55 512.00
   655.01 519.26
@@ -952,7 +952,7 @@ line wall -outline none
   733.87 628.61
 endline
 
-line wall -outline none
+line wall 
   791.59 739.26
   798.88 742.75
   806.16 749.84
@@ -962,7 +962,7 @@ line wall -outline none
   839.34 797.86
 endline
 
-line wall -outline none
+line wall 
   835.41 707.45
   844.42 714.25
   855.55 724.22
@@ -1029,7 +1029,7 @@ line wall
   599.33 863.00
 endline
 
-line wall -outline none
+line wall 
   791.59 739.26
   788.04 750.27
   781.95 758.90
@@ -1058,7 +1058,7 @@ line wall -outline none
   635.85 930.41
 endline
 
-line wall -outline none
+line wall 
   593.92 866.83
   602.84 857.17
   593.28 860.22
@@ -1115,7 +1115,7 @@ area u:user
   4p-a55
 endarea
 
-line wall -outline none
+line wall 
   635.85 930.41
   626.08 929.94
   616.33 931.13
@@ -1127,7 +1127,7 @@ line wall -outline none
   551.72 956.64
 endline
 
-line wall -outline none
+line wall 
   568.64 898.34
   556.50 897.01
   543.81 890.70
@@ -1142,7 +1142,7 @@ line wall -outline none
   435.26 874.68
 endline
 
-line wall -outline none
+line wall 
   432.43 875.54
   424.98 871.37
   417.55 867.66
@@ -1248,7 +1248,7 @@ area u:user
   4p-a59
 endarea
 
-line wall -outline none
+line wall 
   421.55 863.10
   414.37 856.50
   408.14 847.42
@@ -1311,7 +1311,7 @@ area u:user
   4p-a62
 endarea
 
-line wall -outline none
+line wall 
   299.89 912.92
   291.20 906.29
   280.00 901.67
@@ -1344,7 +1344,7 @@ line wall -outline none
   222.64 745.08
 endline
 
-line wall -outline none
+line wall 
   222.64 745.08
   229.01 754.52
   237.58 765.66
@@ -1390,7 +1390,7 @@ area u:user
   4p-a66
 endarea
 
-line wall -outline none
+line wall 
   896.34 801.09
   903.24 817.34
   910.60 828.89
@@ -1417,7 +1417,7 @@ line wall -outline none
   985.78 1039.23
 endline
 
-line wall -outline none
+line wall 
   985.78 1039.23
   988.08 1048.18
   992.67 1056.45
@@ -1458,7 +1458,7 @@ line ceiling-meander
   227.07 256.88 231.49 242.42 237.62 229.33
 endline
 
-line wall -outline none
+line wall 
   434.06 340.06
   438.20 347.70
   444.44 356.32
@@ -1484,7 +1484,7 @@ line wall -outline none
   595.66 513.41
 endline
 
-line wall -outline none
+line wall 
   726.13 688.29
   732.18 690.88
   745.36 692.22
@@ -1492,7 +1492,7 @@ line wall -outline none
   760.55 708.08
 endline
 
-line wall -outline none
+line wall 
   842.02 800.12
   842.51 815.06
   849.55 825.61
@@ -1525,13 +1525,13 @@ line wall -outline none
   912.24 1089.79
 endline
 
-line wall -outline none
+line wall 
   -195.26 -127.02
   -188.77 -117.88
   -185.22 -101.61
 endline
 
-line wall -outline none
+line wall 
   -179.99 -86.36
   -177.83 -77.37
   -176.72 -66.22
@@ -1553,7 +1553,7 @@ line ceiling-meander
   313.47 -221.68
 endline
 
-line wall -outline none
+line wall 
   117.67 248.12
   126.86 249.32
   135.23 249.95
@@ -1561,13 +1561,13 @@ line wall -outline none
   161.85 249.47
 endline
 
-line wall -outline none -outline out
+line wall  -outline out
   290.13 -187.78
   301.19 -185.57 309.24 -180.59 318.02 -179.20
   331.55 -177.06 348.76 -174.10 361.88 -169.80
 endline
 
-line wall -outline none -outline out
+line wall  -outline out
   362.99 -167.94
   372.01 -160.51 383.55 -156.11 394.17 -151.50
 endline

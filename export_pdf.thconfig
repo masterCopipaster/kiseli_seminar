@@ -13,7 +13,7 @@ layout pdf-map  -copy symbols_mine
   surface bottom
 #  rotate 60                                 # Угол поворота съёмки (0 - ориентация на географический север)
   language ru                               # Язык надписей в карте
-  symbol-hide group cave-centerline         # Нитка хода (show - вкл., hide - выкл.)
+  symbol-show group cave-centerline         # Нитка хода (show - вкл., hide - выкл.)
   symbol-hide line border                   # Границы областей (show - вкл., hide - выкл.)
   symbol-show point cave-station            # Пикеты (show - вкл., hide - выкл.)
   symbol-show point flag:entrance           # Входы (show - вкл., hide - выкл.)

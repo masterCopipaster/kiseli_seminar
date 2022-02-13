@@ -2,7 +2,7 @@
 
 survey 97_raion -title "97 raion"
 
-  # input "97_raion-4p.th2"
+  input "97_raion-4p.th2"
 
   # map m4p -projection plan
   #   97_raion-4p
