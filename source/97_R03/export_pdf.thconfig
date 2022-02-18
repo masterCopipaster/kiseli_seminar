@@ -1,5 +1,5 @@
 encoding  utf-8
-source 97_raion.th
+source 97_raion_r03.th
  
 input symbols_mine                          # Подгружаем файл с пользовательскими линиями и т.п.
   
@@ -42,6 +42,6 @@ layout pdf-map  -copy symbols_mine
   doc-author "Спелеоклуб Перово"            # Автор документа
 endlayout
 
-#select Primerp@Primer
+select Primerp@Primer
   
-export map -proj plan -fmt pdf -layout pdf-map -o 97_map.pdf
+export map -proj plan -fmt pdf -layout pdf-map -o Primer_map.pdf
