@@ -6,9 +6,9 @@ survey kiseli_R02 -title "kiseli R02"
 
   input "kiseli_R02-1p.th2"
 
-  # map m1p -projection plan
-  #   kiseli_R02-1p
-  # endmap
+   map m1p -projection plan
+     kiseli_R02-1p
+   endmap
 
   centerline
     date 2022.02.05 
